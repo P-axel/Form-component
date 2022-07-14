@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(20, 217, 200);
+    color: rgb(0, 0, 0);
+    font-size: larger;
+}
+
+.formSubscribe{
+    
+
+h1 {
+    font-weight: 800;
+    text-align: center;
+    padding: 2rem;
+    margin: 0rem;
+}
+
+
+    
+form{
+margin: 3rem;
+display: flex;
+flex-direction: column;
+width: 35%;
+align-items: center;
+margin-left: 33%;
+
+}
+    
+
+.input{
+
+background-color: rgb(255, 255, 255);
+height: 1rem;
+margin: 3rem;
+padding: 1rem;
+
+
+}
+
+label{
+
+color: rgb(0, 0, 0);
+
+
+}
+
+.select{
+
+margin: 1rem;
+padding: 1rem;
+
+}
+
+.checkbox{
+
+
+height: 1rem;
+margin: 1rem;
+padding: 1rem;
+
+
+}
+
+
+
+
+}
